@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @heallz1 i'm iOS Developer focused on design, algo I have worked as a Web designer, here you can find some of my projects.
+- 👋 Hi, I’m @heallz1 i'm iOS Developer focused on design, also I have worked as a Web designer, here you can find some of my projects.
 - 👀 I’m interested in iOS and Web development, UX/UI design, Python.
-- 🌱 I’m currently learning Python, i want to learn about AI and Machine Learning.
+- 🌱 I’m currently learning Python to give a try in AI and Machine Learning.
 - I love playing Football and Video games.
 - 
 - 📫  @heallzcode on twitter
